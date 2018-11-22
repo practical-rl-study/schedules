@@ -3,7 +3,9 @@ RL Study schedules. It includes plans, studies, projects, assignments
 
 
 ## 1121
-복귀하신 박수영님 환영합니다!! 이번에는 DRQN을 가지고 했습니다. 아타리게임 2600 [28] Frostbite 이 어려운 게임을 이기는 DQN의 variant를 살펴보았습니다. https://www.youtube.com/watch?v=dl1jGOu5No0 
+복귀하신 박수영님 환영합니다!! 이번에는 DRQN을 가지고 했습니다. 아타리게임 2600 [28] Frostbite 이 어려운 게임을 이기는 DQN의 variant를 살펴보았습니다. 
+
+[게임영상](https://www.youtube.com/watch?v=dl1jGOu5No0)
 
 double & dueling dqn 구현을 저희가 만든 dqn에 넣어보는것 
 파라메터를 다양하게 줘서 모든 조합을 한번에 돌리는 로직 실습했습니다.
