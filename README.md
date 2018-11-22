@@ -2,9 +2,28 @@
 RL Study schedules. It includes plans, studies, projects, assignments
 
 
+## 1121
+복귀하신 박수영님 환영합니다!! 이번에는 DRQN을 가지고 했습니다. 아타리게임 2600 [28] Frostbite 이 어려운 게임을 이기는 DQN의 variant를 살펴보았습니다. https://www.youtube.com/watch?v=dl1jGOu5No0 
+
+double & dueling dqn 구현을 저희가 만든 dqn에 넣어보는것 
+파라메터를 다양하게 줘서 모든 조합을 한번에 돌리는 로직 실습했습니다.
+이부분도 최대한 코드 설명한 버젼에서 보완해서 돌아가는 코드로 올리도록 하겠습니다~ 
+
+## 1114
+석정님이 Dueling DQN(Dueling Network Architectures for Deep Reinforcement Learning, Z. Wang et al., arXiv, 2015) 논문 리뷰해주셨습니다. 관련 문서도 materials에 올렸으니 참조바랍니다. 또한 빠른 속도를 위해 appendix에 있는 Double DQN에 대해서도 다루었습니다.  다음시간은 코드 구현을 직접해보면서 간단히 DQN에 적용해보도록 하겠습니다.
+
+## 1107
+오늘 스터디는 DQN을 맨땅부터 코딩해서 완전히 이해하고 마무리하는 시간을 가질게요. 각자 노트북 지참하면 좋겠죠? 12시까지 알려주세요!!
+
+
+## 1031
+참석 인원 3명으로 쉬어감
+
+## 1024
+DQN 논문 2015년 버젼(Human-level control through deep reinforcement learning, V. Mnih et al., Nature, 2015.)  리뷰
+
 
 ## 1017
-
 ### Before
 다들 주말에 아이디어 생각을 좀 해보셨는지요? ^^
  
