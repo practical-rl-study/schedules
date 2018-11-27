@@ -2,6 +2,15 @@
 RL Study schedules. It includes plans, studies, projects, assignments
 
 
+## 1128
+안녕하세요~ 오늘은 스터디있는날 입니다. 
+실습 2가지로 진행됩니다.
+
+1. Frosbite 게임에다가 DRQN 적용해서 돌아가는걸 해볼 예정이며, 논문에도 1만 에피소드 이상이 걸리기때문에 결과는 따로 확인해야 할 것 같구요.
+2. DQN도 Dueling, Double 적용한것 질문받고 안되는 부분 같이 살펴볼 예정입니다.
+
+12시까지 알려주세요~~
+
 ## 1121
 복귀하신 박수영님 환영합니다!! 이번에는 DRQN을 가지고 했습니다. 아타리게임 2600 [28] [Frostbite](https://www.youtube.com/watch?v=dl1jGOu5No0) 이 어려운 게임을 이기는 DQN의 variant를 살펴보았습니다. 
 
