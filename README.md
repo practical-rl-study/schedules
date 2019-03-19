@@ -2,6 +2,12 @@
 RL Study schedules. It includes plans, studies, projects, assignments
 
 
+## 0319
+간만에 공지하는데 느낌이 이상하네요ㅎ 지난 수요일 못오신분들 많아 아쉬웠지만 즐거웠습니다. 스터디는 제가 눈이 이상해지기전까지 DRQN 논문을 봤었죠, 이제 Policy gradint 계열의 서막을 알리는 논문인 "Policy Gradient Methods for Reinforcement Learning with Function Approximation"에 대해서 다루겠습니다. 내일 오후 12시까지 참석투표해주세요
+
+https://github.com/practical-rl-study/materials 에 5번에 논문 정보있습니다.
+
+
 ## 1128
 안녕하세요~ 오늘은 스터디있는날 입니다. 
 실습 2가지로 진행됩니다.
