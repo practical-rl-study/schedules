@@ -2,6 +2,18 @@
 RL Study schedules. It includes plans, studies, projects, assignments
 
 
+
+## 0327
+안녕하세요 오늘도 스터디있는 날입니다. 
+
+금일은 
+1. 스타크래프트와 강화학습 (윤일주님)
+2. Policy Gradient Methods for Reinforcement Learning with Function Approximation (조억님)
+2번은 내용이 많이 어려운듯하여 안오신분까지 고려해서 한번 더 리뷰할 생각입니다. 
+많은 참석 부탁드리며 12시까지 답변 주시기 바랍니다.
+
+
+
 ## 0319
 간만에 공지하는데 느낌이 이상하네요ㅎ 지난 수요일 못오신분들 많아 아쉬웠지만 즐거웠습니다. 스터디는 제가 눈이 이상해지기전까지 DRQN 논문을 봤었죠, 이제 Policy gradint 계열의 서막을 알리는 논문인 "Policy Gradient Methods for Reinforcement Learning with Function Approximation"에 대해서 다루겠습니다. 내일 오후 12시까지 참석투표해주세요
 
