@@ -9,6 +9,7 @@ RL Study schedules. It includes plans, studies, projects, assignments
 금일은 
 1. 스타크래프트와 강화학습 (윤일주님)
 2. Policy Gradient Methods for Reinforcement Learning with Function Approximation (조억님)
+
 2번은 내용이 많이 어려운듯하여 안오신분까지 고려해서 한번 더 리뷰할 생각입니다. 
 많은 참석 부탁드리며 12시까지 답변 주시기 바랍니다.
 
