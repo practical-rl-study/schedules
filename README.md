@@ -2,6 +2,21 @@
 RL Study schedules. It includes plans, studies, projects, assignments
 
 
+## 0410
+금일도 어김없이 스터디가 있는 날입니다. 비가 부슬부슬오더니 그쳤네요 
+
+지난번에 PG 계열의 첫걸음인 REINFORCE 코드 구현 실습했습니다.
+다들 한번 코드 구현하신거 손을 봐서 CartPole이 잘 작동하는거 눈으로 확인하셨으면 좋겠습니다.
+https://github.com/practical-rl-study/sources/blob/master/ukjo/190403_REINFORCE.py
+
+오늘은 DPG 논문을 다룰 예정입니다. 
+materials 리스트중 6번 항목이구요, 요즘 state of art 찍고 있는 알고리즘들이 대부분 이 논문을 기반으로 하고 있습니다.
+https://arxiv.org/pdf/1709.05380
+
+이 논문도 상당히 중요하곘죠? 아 그리고 남는 시간에 책 쓰는것에 대한 잠깐 얘기도 같이할까합니다. (오늘은 기필코 ㅋㅋ)
+12시까지 투표해주세요 감사합니다.
+
+
 
 ## 0403
 금일도 어김없이 스터디가 있는 날입니다.  
