@@ -14,6 +14,7 @@ RL Study schedules. It includes plans, studies, projects, assignments
 2. DPG논문을 살짝보고 DDPG논문을 다룰려고 합니다.  
      - "CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING"
      - https://arxiv.org/pdf/1509.02971.pdf
+     - [참고자료](https://www.slideshare.net/ssuser41d7e01/ddpg-deep-deterministic-policy-gradient-139832691?fbclid=IwAR0nbdDMGZRQUvkIs7LPctsjCfJ-crlB_M0vf4_RV_iDGQG6JjHmEIj8TSg) (오늘 RLKorea에서 본 따끈한 자료)
 3. (시간이 난다면) DDPG 소스코드를 보여드리고 데모도 살짝 보여드릴까 합니다   -> 실습을 위한 예열준비
 
 아 그리고, 김주철님/이동석님하고 전 일찍 퇴근해서 강남 CGV에서 영화봅니다. (헬보이, 15:35 ~ 17:46)  
