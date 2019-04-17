@@ -13,6 +13,7 @@ comment같은것도 line별로 달 수가 있더라구요 우선 나중에 양�
 
 # 집필계획서
 금일(4/18)중으로 작성해서 제이펍 담당자분에게 전달할 예정입니다.
+
 기본편 https://docs.google.com/document/d/1FOHWAHDGLnMszM95cEHNON3g4tc5sT5G-CEzmUtCpVk/edit
 실전편 https://docs.google.com/document/d/1qsNyYVoxa9zuK7SMq4SlNRC8tzPb30M4UNngDU_ZVbk/edit
 
