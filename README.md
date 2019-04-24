@@ -1,9 +1,22 @@
 # Practical Reinforcement Learning Schedules
 RL Study schedules. It includes plans, studies, projects, assignments
 
-## 0417
+
+## 0424
+여러분~ 스터디있는 날이어요. 지난 시간 참석자 미달로 못했던거 그대로 진행할려고 합니다.
+
+1. 여친이 생겨 행복한 남자 조태현님이 "행복한 퀀트 개발자의 하루는 어떨까?"라는 타이틀을 가지고 30분정도 발표합니다.
+2. DPG논문을 살짝보고 DDPG논문을 다룰려고 합니다.  
+     - "CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING"
+     - https://arxiv.org/pdf/1509.02971.pdf
+     - [참고자료](https://www.slideshare.net/ssuser41d7e01/ddpg-deep-deterministic-policy-gradient-139832691?fbclid=IwAR0nbdDMGZRQUvkIs7LPctsjCfJ-crlB_M0vf4_RV_iDGQG6JjHmEIj8TSg) (오늘 RLKorea에서 본 따끈한 자료)
+3. (시간이 난다면) DDPG 소스코드를 보여드리고 데모도 살짝 보여드릴까 합니다   -> 실습을 위한 예열준비
+
+12시까지 투표해주시와요!!
 
 
+
+## 0417 (참석자 미달로 스킵)
 금일도 어김없이 스터디가 있는 날입니다. 
 전 어제 SI시절 오래 같이 일했던 후배가 보자 해서 한잔 찐하게 하며 참 많은 생각이 들었습니다. 기술이 꽤 좋은 친구인데 변화를 싫어하는 친구라 자바, 자바스크립트외에 다른데는 1도 관심이 없던 친구가 갑자기 파이선하고 AI공부하겠다고 하네요.  뭔가 기분이 묘했습니다 ^^
 
