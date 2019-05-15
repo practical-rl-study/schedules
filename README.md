@@ -2,7 +2,21 @@
 RL Study schedules. It includes plans, studies, projects, assignments
 
 
-## 0508
+## 0515
+여러분~ 3번 연속으로 쉰건 처음인듯.
+
+1. 여친이 생겨 행복한 남자 조태현님이 "행복한 퀀트 개발자의 하루는 어떨까?"라는 타이틀을 가지고 30분정도 발표하고 워렌버핏 버크셔헤서웨이 주주총회 얘기도 같이 좀 전달해주심 좋을것 같네요.
+2. PPO논문을 이현제님이 발표를 30분 정도 발표를 할껍니다.
+2. DDPG논문 마무리 정리합니다.  
+     - "CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING"
+     - https://arxiv.org/pdf/1509.02971.pdf
+     - [참고자료](https://www.slideshare.net/ssuser41d7e01/ddpg-deep-deterministic-policy-gradient-139832691?fbclid=IwAR0nbdDMGZRQUvkIs7LPctsjCfJ-crlB_M0vf4_RV_iDGQG6JjHmEIj8TSg) (오늘 RLKorea에서 본 따끈한 자료)
+3. (시간이 난다면) 멀티에이전트 작동하는 데모를 보여드릴게요 (재미난 환경이 있습니다)
+
+12시까지 투표해주시와요!!!
+
+
+## 0508 (참석저조로 스킵)
 여러분~ 노동절은 잘 쉬었나요? 금일은 간만에 스터디있는 날이어요. 지지난 시간 그대로 진행할려고 합니다.
 
 1. 여친이 생겨 행복한 남자 조태현님이 "행복한 퀀트 개발자의 하루는 어떨까?"라는 타이틀을 가지고 30분정도 발표합니다.
