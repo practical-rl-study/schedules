@@ -2,6 +2,23 @@
 RL Study schedules. It includes plans, studies, projects, assignments
 
 
+
+## 0522
+여러분~ 오늘은 험프데이! 스터디있는날입니다. 지난 시간 이현제/조태현님의 너무 쏙쏙 잘들어오는 유익한 발표 잘들었습니다.
+자주 이런 세션을 마련하는것도 좋은 것 같습니다. 정리하면서 전문가가 되는거겠죠~
+
+1. 오늘은 수영님의 "데이터사이언티스트의 하루" 
+2. DDPG 
+     - 논문 "CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING"
+     - https://arxiv.org/pdf/1509.02971.pdf
+     - [RLKorea](https://www.slideshare.net/ssuser41d7e01/ddpg-deep-deterministic-policy-gradient-139832691?fbclid=IwAR0nbdDMGZRQUvkIs7LPctsjCfJ-crlB_M0vf4_RV_iDGQG6JjHmEIj8TSg)
+3. A3C 
+     - 논문 "Asynchronous Methods for Deep Reinforcement Learning"
+     - https://arxiv.org/abs/1602.01783
+
+12시까지 투표해주시고요 분량은 위에 뽑았으나, 오늘은 좀 일찍 마치고
+@"실전편"저자분들 동석님이 집필 계획을 공유하실겁니다.
+
 ## 0515
 여러분~ 3번 연속으로 쉰건 처음인듯.
 
