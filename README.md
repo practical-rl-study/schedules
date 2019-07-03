@@ -3,6 +3,24 @@ RL Study schedules. It includes plans, studies, projects, assignments
 
 
 
+
+## 0703
+여러분 오늘도 스터디 있는날이네요,
+
+1. Trading gym introduction (조태현님)
+2. saida-rl introduction
+3. 시간 남을 경우 a3c 실습
+
+차주에 박영준박사님의 졸업논문이자 저와 같이 했던 연구에 대해서 다룰 예정이니 많은 관심 가져주세요~
+12시까지 그럼 투표 부탁드리구요!!
+
+
+
+## 0626
+재구님 덕분에 좋은 경제&부동산 세미나 시간을 가지 데이터 시각화가 잘되어있는 인사이트 돋는 리치고 시스템 구경도 했습니다.
+
+
+
 ## 0619
 페이스북이 리브라라는 가상화폐를 꺼내놓았네요 다들 상상하던 것들이 조금 빨리 다가온 느낌인가요? ^^
 스터디가 3주 쉬었네요~ 금일은 지난시간에 할려고 했던 합니다.
@@ -10,10 +28,8 @@ RL Study schedules. It includes plans, studies, projects, assignments
 1. 일주님이 SAIDA RL 논문 1편 소개와 설치에 대한 가이드를 해줄 예정입니다
 2. 시간이 허락한다면 A3C 논문 정리하고 코드 구현 들어가볼까 합니다.
 
-투표 내일 12시까지 해주시고요,
-오늘은 스터디 이후 책 저자분들은 DQN과 A3C 정리한 것 가지고 얘기함 해보시죠 ^^
- 
-
+투표 12시까지 해주시고요,
+오늘은 스터디 이후 책 저자분들은 DQN과 A3C 정리한 것 가지고 얘기함 해보시죠 ^^ 
 
 
 ## 0612
@@ -421,162 +437,4 @@ https://finance.naver.com/item/board.nhn?code=015760
 
 
 ## 0509
-안녕하세요~ 한주 잘 보내셨어요? 월요일이 휴일이라 금방 수요일이네요!! 지난 시간에는 value & policy iteration (이제 지겹죠?) 빠르게 훑고 그 녀석들의 한계점 그리고 바로 q learning 으로 넘어오기까지 그리고 고차원에서의 문제도 해결하기 위해  뉴럴넷을 사용하게 된 배경까지를 다 다루고 dqn을 이론적으로 공부했습니다. double & dueling dqn은 dqn의 변형이라고만 설명했는데 그 디테일한 부분을 코드로 보면서 실습하는 시간을 가지겠습니다. 즉 DQN, Dueling DQN, Double DQN 소스 코드 짜보는 시간을 가지겠습니다.  그리고 시작전에 간단하게 숙제로 냈던 maze 미로 문제 푸는거 설명할게요.  오늘 불참하시는 분 말씀해주시구요~~ 11시까지 답없으면 예약할게요~
-
-그리고 과제 해보신분들 몇분 계신데..  이미 아실거고.. 오늘 간단히 돌려보실분들 위해 설명드리자면  gym-maze설치 언급이 없었을텐데 https://github.com/tuzzer/gym-maze 이 git 을 clone받고 python install로 해서 설치하면 될거에요 윈도우/맥 다 됩니다~ pygame을 별도로 설치해야하는 케이스도 있구요. 참고하세요
-
-
-. 메이즈 설치완료 (이전에 설치했는데 지웠던듯)
-  - gym-maze설치(https://github.com/tuzzer/gym-maze  clone > python install)
-. double & dueling dqn 내용 정리 및 breakout 말고 다른 간단한 예제로 적용 준비
-
-## 0502
-금일 강화학습 스터디 진행합니다. 지난 시간에 value/policy iteration을 배우고 Q Learning과 SARSA Agent까지 살펴봤습니다. 원래 이를 끝으로 Policy Gradient 모델 나가기로 했으나 안 오신 분들을 감안 DQN 내용을 마감차원에서 더 다루고 가겠습니다.
-
-내용은 이전 시간까지 배운 알고리즘의 한계와 DQN을 자세히 다루도록 하겠습니다. 이전 시간에 실습한것처럼 이녀석도 이론과 실습으로 나누어져있구요~  오늘 못 오시는분들 1시까지 얘기해주세요
-
-## 0425
-- 조태현 / 김완준님 합류
-
-
-
-
-## 0418
-오늘 스터디 있는 날입니다. value iteration 코드 작성과 그리고 policy iteration 5번 돌려서 테이블 채워오는 과제가 있구요 못하신분은 조금 복습해오셔도 좋을것 같습니다  금일은 value iteration코드를 잠깐 보고 policy iteration 과 q learning , sarsa를 다 끝내는걸 감히 또 목표로 삼겠습니다. 그리고  간단하게 PG 알고리즘 하기 전에 병행할 것을 좀 생각한게 있는데요 전에 공유한 이거 조금씩 나갈려고 합니다 https://gitlab.com/iljoo.yoon/rl-study/blob/master/materials/PDF/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5(%EA%B8%88%EC%9C%B5_v3.0).pdf 
-
-그리고 윤일주님은 전에 gitlab 에 코드 올리는 부분 간단히 설명하는걸 슬랙에 공유해주시면 고맙겠습니다
-
-12시까지 대기타고 예약 걸겠습니다. 그리고 슬랙에 voting하나 할려고 합니다 모두의 연구소에서 강화학습 들으신분들이 저희 스터디에 와서 활약(?)을 하고 싶다고 하셔서요~ 의견을 여쭤볼려고 합니다. 그럼 슬랙에 올릴게요~ 인원은 어차피 two pizza 팀정도 생각해서 거의 마지막이라 생각하고. 분야가 꽤 다양해서 더 좋을거같아서 내린 판단입니다 
-
-오늘 참석자가 이동석님과 윤일주님만 이라서 진도는 안나가고 강화학습 환경 구축관련 얘기로 대신합니다. 대신 담주에는 숙제 꼬옥 해오는겁니다 ㅋㅋㅋ
-오늘 강화학습 스터디 번개편은 한양대에서 진행합니다.  조촐한 자리는 있을지 모르나 일정 변동이 있으신분은 연락주세요 ㅋㅋ
-
-## 0404
-Policy Iteration에서부터 TD Learning 그리고 그중의 하나인 SARSA, 그리고 김성훈 교수님이 다뤘던 Q Learning을 다시 수식으로 들여다보는것까지입니다. 노트북은 필요없고 종이만 좀 챙겨오세요~
-
-## 0328
- - Chapter 4장까지 책 훑어갈것
- - Maze SARSA까지 코드한번 돌려볼것
-
-
-## 0321
-스터디했던 내용은 Value based의 학습을 포괄적으로 즉 김성훈교수님의 DQN 강의 내용중에 다루지 않았던 부분에 대해서 다뤘습니다.
-키워드만 나열하자면, 강화학습 정의를 다시 생각해보고 OpenAI의 새로나온 Mojocoo라는 환경을 언급했고 강화학습 실제 예제를 좀 보여줬어요~
-그리고 강화학습의 역사, 탄생배경인 Sequential Decision Problem에서 부터 MDP, Bellman Equatoin, Dynamic Programming, SARSA, Q Learning를 연결해가면서 설명을
-시작했습니다. 시간이 훌쩍 지나서 MDP정도까지만 언급했습니다. 여기에서 MDP에서 설명안했던 상태변환확률까지 포함해서 설명을 Policy까지 언급하면서 멘붕을 좀 겪으셨을거고..
-다음시간에 Bellman Eequation, SARSA을 해 나갈거고요~ 대항전은 서브로 진행합니다.
-
-
-## 0314
-금주에는 저번에 공지했다시피 산에서 구르는차 게임 대항전 경기가 있습니다 각자 코드에 주석 다시고 어떻게 했는지 공유해주실분은 해주시고요~  경기도 하구요~ 평가기준은  학습이 안된 상황에서  특정 x개의 에피소드를 돌려서 성공한 카운트를 할려고 합니다.  다른의견있음 주시고요~ DQN계열의 모델은 모두 ok 하는걸로 하겠습니다. 저위의 x는 그날 정할겁니다. ㅋㅋ
-
-- MountainCar
-   - https://github.com/openai/gym/wiki/MountainCar-v0
- - SpaceInvaders
-  - https://gym.openai.com/envs/SpaceInvaders-v0/
-A3C
- - https://github.com/rlcode/reinforcement-learning/blob/master/3-atari/1-breakout/breakout_a3c.py
-
-
-
-
-## 0307
-DQN 실습
-윤일주님 합류
-
-
-## 0228
-
-오늘 스터디 진행안내드립니다.
-
-1. 대항전 준비
-  - MountainCar
-    . 환경 소개
-    . 환경설정
-    . 점수기준
-    . skeleton code공개
-2. Hands On
-  - 대항전할때 디버깅 용이하기 위한 텐서플로우 eagar mode
-  - 만든 모델에  대한 Graph 시각화 및 학습 상황을 보기 위한 tensorboard 사용법
-3. 시간이 된다면 아래와 같은걸 해볼까 합니다.
-  - 셋팅하고 있는 스타크래프트 저글링과 마린이 붙는 강화학습 개발환경도 소개
-  - 아니면 간단하게 grid world에 대한것을 보여줄수도 있고
-  - Double DQN or Double Dueling DQN 소개 (이것도 DQN의 발전된 모델이나 같이 속합니다.)
-
-
-## 0221
-
-지난시간 간단정리
-텐서플로우 사용방법 디테일하게 들어가기
- - tf v1.5부터 적용된 eagar execution mode
-    :  디버깅 쉽게!!
-    : 그래프 모드 lazy loading!! --> spirng 객체를 늦게 올리는것
-       -> configuration placeholder, variable 잡고 matmul같은 operatino을 막 쓰면서 결국에 Neural net 이든 아니면 간단한 머신러닝의 모델을 만들든간에.. 한번에 만들어져서 한번에 돌아가는식... ---> 결국에 하나씩 하나씩 해나가는 맛이 없다..
-       디버깅 불편
-        -->  session을 열고 거기에서 run을 해야 이미 define이 된 placeholder가 구멍이 열려가지고 데이터가 실제로 주입이 되면서 tf로 정의한 변수 상수들과 중요한 operation 이 수행도ㅚㄴ다.
-        ---> session 안에서 돌아가는 연산을 들여다 볼수 있을까??
-        -----> No!!!
-        ---------> 파이토치가 유명해졌다...
-        -----------> 그래도 파이토치 넘어갈려고 하니 좀 그렇더라. 왜냐? 상용에 적용하는 측면( tensorflow serving (2016 google I/O) 엔터프라이즈 측면이 강하다.) 제일 중요한건 레퍼런스가 겁나 많다.... 예제, 논문 구현 등등
-        ------------>  eagar execution이다!!
-
- - 텐서보드
-   - graph, loss, accuracy line plot 시각화를 잘해준다.
- - 대항전 one of them --> 마운틴카 데모환경 소개
-   - 간단한 set up 설명
-
-
-### 0209
-
-금요일 수업 준비를 할려면 아래 내용도 훑어야겠군요
-www.nature.com/articles/natuer14236
-sites.google.com/a/deepmind.com/dqn
-
-go deep!!
-www.nature.com/nature/journal/v518/n7540/full/nature14236.html
-
-https://github.com/openai/gym/wiki/CartPole-v0
--> 카트폴이 원래 200넘으면 굳
-
-일주푸로 소스는 릴레이 버퍼가 에피소드 1000 밖에 안도는데 우선 릴레이버퍼가 0이 아닐때만 체크해서 돌게 해서..... 아마..?
-그리고 ...
-
-
-non stationary targets
-아하 여기에서 gradient descending에서 오차를 보고 MSE에서 weight를 학습하는데 실제로 다음 상태와 다음 액션의 값이 바뀌는 문제가 있어서 이걸 타겟 네크워크를 둔다
-
---> experience replay 살짝 유격을 두어서 버퍼에 state transtion정보를 버퍼에 저장했다가 랜덤 샘플링해서 mini batch만큼 학습을 한다
---> 이게 가장 중요한 포인트.. correlation이 문제가 가장 큰가보다.
-그다음이target network를 별도로 둔다고 하는것. 위의 mini batch만큼 랜덤새플링을 한다
- 그리고 오차를 학습을 하는데 Q함수의 즉 new state, new action의 Gt를 가져오는 부분의 network을 학습안하고 나중에 학습이 되고 나서 그 학습된 네트워크를 복사해서 유격을 둠으로써 nonstationary 하지 않게 한다.
- Experience Replay가 나옴으로써 학습하는 구간의 mini batch 사이즈만큼 target이 변동하는 문제가 생겼다라는 것 그래서 Copy network이 부수적으로 따라온 느낌
-
-코드 구현을 위해서
-필요한 건 DQN이고 init 과 build_network, predict, update 총 4개의 함수로 구성
-그리고 mainDQN을 구하고 deque자료형을 만들어서 데이터를 넣으면서 테스트?!
-
-추가로 해볼건
-하이퍼파라메터(lr, decaying factor, sample size)
-네트워크 구성
-리워드 변경
-
-2013년버젼을 2015년 버젼으로 -> simple block based car race
-dqn으로 해보고 싶은거 해볼것 flappy bird등
-
-## 0202
-Q Learning with Tabular Method 4,5강 실습 완료
-
-
-
-
-## 0124
-이동석/이승호님 합류
-어제 내용은 김성훈 교수님 강의 @이승호님을 위해 챕터장  빠르게 훑었구요~ 진도는 챕터6장까지 나갔는데 다음시간에 4~5장 빠르게 훑고 6장하고 7장 나갈거에요~~ 
-@이승호 이방 게시판 보면 설치환경 있으니 보고 설치해주시구요 
-@동근당님, 병도님 챕터4,5장 동영상보시고 복습해오시면 됩니다.
-@All  모두 챕터 4, 5장 실습 둘다 해서 캡쳐 올려주세요~~ 코드도 (안보고!!) 작성해서 다음시간에 들고오세요~~
-
-
-~1/24 이전 데이터의 경우는 따로 아카이브되지 않았습니다.
-
-
+안녕하세요~ 한주 잘 보내셨어요? 월요일이 휴일이라 금방 수요일이네요!! 지난 시간에는 value & policy iteration (이제 지겹죠?) 빠르게 훑고 그 녀석들의 한계점 그리고 바로 q learn
