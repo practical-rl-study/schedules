@@ -1,6 +1,23 @@
 # Practical Reinforcement Learning Schedules
 RL Study schedules. It includes plans, studies, projects, assignments
 
+##0731
+7월의 마지막날이네요, 절반이 훌쩍 지났다는게 참 시간 빠르죠?
+
+금일은 무려 3명의 발표자가 있네요, 
+1. 오늘 스터디는 A3C 지난시간 구현을 60%했는데요, 40% 마저 하는걸로 하겠습니다
+a3c 구현 및 검증완료 버젼 (https://github.com/practical-rl-study/sources/blob/master/ukjo/a3c.py)
+2. 윤일주님이 앞으로 구현실습(기본편 책에서도 인용될) 코드 관리 체계 및 히스토리 내용 공유합니다.
+3. 이현제님이 성균관대 딥러닝 한달 과정을 듣고온 후기를 공유합니다.
+
+12시까지 투표해시고요, 많은분들 오셨으면 좋겠네요~^^
+
+아래는 발표 건의입니다. ^^
+@박수영님 수영님도 지난 컨퍼런스 한번 짧게 공유해주시나요? @허재영님 Unity Handson 시간 언제 함 가질까요?
+@김경일님 알고리즘 경진대회에서 강화학습 진행되는거 내용 공유 한번 해주시나요?
+
+
+
 
 ##0724
 2주나 쉬었네요! 금일은 스터디있는 날입니다.
@@ -13,6 +30,9 @@ RL Study schedules. It includes plans, studies, projects, assignments
 
 엘베 빼곤 거의 실습 위주로 돌려볼 생각이니깐요~ 여러분들도 노트북을 챙겨오시면 좋을 것 같아요! 12시까지 투표해주시고요 오늘 많은 참석부탁드립니다.
 
+업데이트 내용) 
+아래 링크로 a3c 구현 완료 소스 올립니다. (지난시간에 못한 부분 다시 이어서 구현해볼까합니다)
+https://github.com/practical-rl-study/sources/blob/master/ukjo/a3c.py
 
 
 ## 0717 (참석자 저조로 쉬어감)
