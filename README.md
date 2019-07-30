@@ -1,7 +1,7 @@
 # Practical Reinforcement Learning Schedules
 RL Study schedules. It includes plans, studies, projects, assignments
 
-##0731
+## 0731
 7월의 마지막날이네요, 절반이 훌쩍 지났다는게 참 시간 빠르죠?
 
 금일은 무려 3명의 발표자가 있네요, 
@@ -19,7 +19,7 @@ a3c 구현 및 검증완료 버젼 (https://github.com/practical-rl-study/source
 
 
 
-##0724
+## 0724
 2주나 쉬었네요! 금일은 스터디있는 날입니다.
 
 1. 여러분 Cartpole v0말고 어려운 버젼을 10초도 안되는 시간에 학습하는걸
